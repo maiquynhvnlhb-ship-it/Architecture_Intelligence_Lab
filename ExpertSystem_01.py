@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #HỆ CHUYÊN GIA ĐƠN GIẢN HÔC TRỢ TƯ VẤN SỨC KHỎE
 #Phần cơ sở tri thức
 class HealthExpertSystem:
@@ -101,4 +100,3 @@ if __name__ == '__main__':
     exp = HealthExpertSystem()
     exp.start()
 
->>>>>>> e8dbfaa (update)
